@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sandovalleonel/blog.git/static/css/main.16198c12.css",
+    "main.js": "/sandovalleonel/blog.git/static/js/main.3e373bfd.js",
+    "static/js/787.f587e8d5.chunk.js": "/sandovalleonel/blog.git/static/js/787.f587e8d5.chunk.js",
+    "index.html": "/sandovalleonel/blog.git/index.html",
+    "main.16198c12.css.map": "/sandovalleonel/blog.git/static/css/main.16198c12.css.map",
+    "main.3e373bfd.js.map": "/sandovalleonel/blog.git/static/js/main.3e373bfd.js.map",
+    "787.f587e8d5.chunk.js.map": "/sandovalleonel/blog.git/static/js/787.f587e8d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16198c12.css",
+    "static/js/main.3e373bfd.js"
+  ]
+}
